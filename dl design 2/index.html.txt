@@ -199,25 +199,25 @@ footer {
 
         <div class="card">
             <h3>👔 Direktor</h3>
-            <p><strong>Direktor 1</strong><br>
+            <p><strong>Daris Osmanovic</strong><br>
             Strategija, klijenti i vođenje projekata</p>
         </div>
 
         <div class="card">
             <h3>👔 Direktor</h3>
-            <p><strong>Direktor 2</strong><br>
+            <p><strong>Ensar Smajic</strong><br>
             Operacije i organizacija proizvodnje</p>
         </div>
 
         <div class="card">
             <h3>🎨 Dizajner</h3>
-            <p><strong>Dizajner 1</strong><br>
+            <p><strong>Vedad Dedic</strong><br>
             Grafički dizajn i LED reklame</p>
         </div>
 
         <div class="card">
             <h3>🎨 Dizajner</h3>
-            <p><strong>Dizajner 2</strong><br>
+            <p><strong>Anes Juko</strong><br>
             3D vizuali i brendiranje vozila</p>
         </div>
 
@@ -234,7 +234,7 @@ footer {
         Sarajevo, Bosna i Hercegovina</p>
 
         <p><strong>📞 Telefon:</strong><br>
-        +387 61 000 000</p>
+        +387 60 350 0265</p>
 
         <p><strong>📧 Email:</strong><br>
         info@dldesign.ba</p>
